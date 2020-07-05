@@ -9,7 +9,7 @@
 ## セットアップ
 以下の手順で動くと思います。
 1. 日本酒の感想を中心に学習させたword2vecモデルを用意する
-1. `./data/sake.model` として設置する
+1. 1を `./data/sake.model` として設置する
 1. lineのMessaging APIの設定をする
 1. `callback_gensim.php` にアクセストークンとチャンネルセレクトを記述する
 1. サーバーにフォルダを設置する
