@@ -22,7 +22,7 @@
 
 - 利用例
 
-![iOS の画像](https://user-images.githubusercontent.com/43877096/86533822-c8f26e80-bf0e-11ea-85c2-42750e7c1ed3.png)
+![iOS の画像 (1)](https://user-images.githubusercontent.com/43877096/86534249-03113f80-bf12-11ea-8d65-9fe5386e2fe4.png)
 
 ## 備考
 - 日本酒に関するレビューデータがあまり集まらなかったのと、文章からの日本酒名が難しく、精度はおそらくよくないです。。。
