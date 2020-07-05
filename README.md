@@ -21,6 +21,8 @@
 ![スクリーンショット 2020-07-05 22 14 36](https://user-images.githubusercontent.com/43877096/86533572-166ddc00-bf0d-11ea-9bb6-16e36dfd9767.png)
 
 - 利用例
+好きな飲み物などを入力すると、おすすめの日本酒を答えてくれます
+スペースやカンマ区切りによる複数入力もOKです
 
 ![iOS の画像 (1)](https://user-images.githubusercontent.com/43877096/86534249-03113f80-bf12-11ea-8d65-9fe5386e2fe4.png)
 
